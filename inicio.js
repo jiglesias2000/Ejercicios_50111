@@ -1,7 +1,7 @@
 // const ObjSumar = require("./sumarNumeros");
 // ObjSumar.SumarDosNumeros(1, 2);
 // ObjSumar.SumarTresNumeros(1, 2, 3);
-
+console.log("iniciando pruebas")
 const { SumarDosNumeros, SumarTresNumeros } = require("./funcionesMatematicas/sumarNumeros");
 console.log("Probando la funcion SumarDosNumeros");
 console.log(SumarDosNumeros(1, 2));
